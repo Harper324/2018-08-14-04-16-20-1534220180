@@ -12,7 +12,7 @@ for (i=1; i<arr.length; i++) {
         }
 }
 ave = total/num;
-console.log('最大值为：' + max);
-console.log('最小值为：' + min);
-console.log('序列中元素个数为：' + num);
-console.log('平均值为：' + ave.toFixed(2));
+console.log('最小值 =' + min);
+console.log('最大值 =' + max);
+console.log('元素数量 =' + num);
+console.log('平均值 =' + ave.toFixed(2));
