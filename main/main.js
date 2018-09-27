@@ -1,4 +1,4 @@
-var arr = [12, 15, 7, 9, 7, 11, 20];
+var arr = [6, 9, 15, -2, 92, 11];
 var i, ave, total = arr[0], num = arr.length, min = arr[0], max = arr[0];
 for (i=1; i<arr.length; i++) {
         total = total + arr[i];
